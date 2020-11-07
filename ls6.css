@@ -1,0 +1,24 @@
+td{
+    border: inset 3px rgb(241, 0, 241);
+    width: auto;
+    
+    
+}
+
+table{
+    width: 100%;
+}
+.im{
+    width: 100%;
+    height: auto;
+}
+body{
+    background: linear-gradient(to right, rgba(60, 226, 212, 0.938), rgb(59, 61, 172) );
+}
+th{
+    border: inset 3px rgb(241, 0, 241);
+    width: auto;
+    font-size: 150%;
+    
+}
+
