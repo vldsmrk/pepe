@@ -1,0 +1,30 @@
+body{
+    background: #242323;
+}
+div{
+    background: linear-gradient(45deg, orange, red, purple) 0;
+    border: 10px white solid;
+    border-radius: 15%;
+    width: 400px;
+    height:  400px;
+    position: absolute;
+    left: 700px;
+    top: 250px;
+}
+#mn{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 90px;
+    top: 90px;
+}
+#cr{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background: white;
+    position: absolute;
+    left: 320px;
+    top: 40px;
+}
