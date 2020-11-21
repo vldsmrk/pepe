@@ -1,0 +1,29 @@
+.mnblck{
+   width: 700px;
+   height: 500px;
+   background-color: black; 
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.bl1{
+    width: 100px;
+   height: 100px;
+   background-color: gray;
+   margin: 40px 20px;
+}
+
+.bl3{
+    width: 100px;
+   height: 100px;
+   background-color: green;
+   margin: 40px 20px;
+   text-align: center;
+   
+}   
+
+.png{
+    width: 100px;
+    height: 100px;
+}    
