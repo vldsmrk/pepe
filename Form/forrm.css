@@ -1,0 +1,23 @@
+form{
+    width: 400px;
+    height: 145px;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 200px;
+
+}
+img{
+    margin-left: 40px;
+}
+.srch{
+    width: 316px;
+    border: solid 1px rgb(211, 207, 207); 
+    border-radius: 5%;
+    padding: 0px;
+    margin-left: 3px;
+}
+.bttn{
+    width: 70px;
+    border: solid 1px rgb(211, 207, 207); 
+    border-radius: 7%;
+}
