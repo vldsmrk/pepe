@@ -1,0 +1,62 @@
+div{
+   
+    margin-left: 35%;
+    width: 1200px;
+    height: 1200px;
+}
+
+.br{
+    border: solid 1px black;
+}
+
+#fr{
+    background:linear-gradient( 135deg , orange , red);   
+    border-radius: 50% 50% 0% 100% / 50% 100% 0% 50% ;
+    rotate: -135deg;
+    width: 500px;
+    height: 500px;
+    margin-top: 103px ;
+    margin-left: 0px;
+    position: absolute;
+    z-index: 1;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    
+
+}
+
+#stck{
+    width: 40px;
+    height: 500px;
+    background: rgb(97, 47, 13);
+    margin-left: 230px;
+    margin-top: 580px;
+    position: absolute;
+    z-index: 2;
+}
+
+#srk{
+    background: rgb(97, 13, 13);
+    border-radius: 100px/50px;
+    width: 180px;
+    height: 90px;
+    rotate: 90deg;
+    top: 0px;
+    position: absolute;
+    z-index: 3;
+    margin-left: 160px;
+    margin-top: 580px;
+    
+}
+
+#shdw{
+    background: white;
+    border-radius: 100px/50px;
+    width: 90px;
+    height: 60px;
+    filter: blur(5px);
+    margin-left: 205px;
+    margin-top: 505px;
+    position: absolute;
+    z-index: 3;
+    scale: 75%;
+}
