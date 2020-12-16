@@ -1,0 +1,19 @@
+.row ,
+.col ,
+.col-4 ,
+.col-6 ,
+.col-5 ,
+.col-8
+{
+    border: 1px solid black;
+    background: rgb(117, 121, 177);
+}
+
+.container1 ,
+.container2 ,
+.container3
+{
+    border: 1px solid black;
+    background: rgb(117, 121, 177);
+    margin-top: 100px;
+}
