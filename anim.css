@@ -1,0 +1,15 @@
+@keyframes pepe{
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    75% {background-color: green;}
+    100%   {background-color: red;}
+    }
+
+.anm{
+    width: 900px;
+    height: 700px;s
+    animation-name: pepe ;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
