@@ -1,0 +1,22 @@
+
+
+.masthead{
+   
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+li{
+    margin-left: 10px;
+}
+
+.navigation{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: 
+    "header header header"
+}
